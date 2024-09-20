@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="FURNITARE" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>FURNITARE</title>
+
+  </head>
+
+  <body bgcolor="black"><font color="white">
+        <h2>FURNITARE</h2>
+    <table style="width:80%"border=20>
+
+    <tr>
+    <th>NO</th>
+    <th>FURNITARE NAME</th>
+    <th>PRICE</th>
+    <tr>
+    <th>1</th>
+    <th>washing machine</th>
+    <th>8,000</th>
+    </tr>
+    <tr>
+    <th>2</th>
+    <th>fridge (whirlpool)</th>
+    <th>13,000</th>
+    </tr>
+    <tr>
+    <th>3</th>
+    <th>sofa</th>
+    <th>13,000</th>
+    </tr>
+    <tr>
+    <th>4</th>
+    <th>doble Bed</th>
+    <th>15,000</th>
+    </tr>
+    <tr>
+    <th>5</th>
+    <th>almirah</th>
+    <th>12,000</th>
+    </tr>
+    <tr>
+    <th>6</th>
+    <th>Table</th>
+    <th>2,000</th>
+    </tr>
+    <tr>
+    <th>7</th>
+    <th>cooler fan</th>
+    <th>5,000</th>
+    </tr>
+    <tr>
+    <th>8</th>
+    <th></th>
+    <th>TOTAL PRICE 66,000</th>
+    </tr>
+    <tr>
+    <th>9</th>
+    <th></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>10</th>
+    <th></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>11</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>12</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>13</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>14</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>15</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>16</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>17</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>18</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>19</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>20</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+    <tr>
+    <th>21</th>
+    <th></th>
+    <th></th>
+
+    </tr>
+
+  </body>
+</html>
