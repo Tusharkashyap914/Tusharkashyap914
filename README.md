@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Tushar Kashyap  
 
-<!--
-**Tusharkashyap914/Tusharkashyap914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Enthusiast | Cloud Learner | Problem Solver**  
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🔭 Currently working on **Terraform, CI/CD Pipelines, Azure VM Deployments**  
+- 🌱 Learning **Cloud & DevOps Automation**  
+- 💬 Ask me about **Linux, Git, Website Deployment, and Automation**  
+- ⚡ Fun fact: *I love building projects that make deployment easier*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Cloud**: Azure  
+- **DevOps**: Terraform, CI/CD Pipelines  
+- **Tools**: Git, Linux, Nginx  
+- **Programming**: Basics of React, Node.js  
+
+### 📫 Connect with Me
+- GitHub: [Tusharkashyap914](https://github.com/Tusharkashyap914)  
+- 💌 Email: Tusharkashyap914@gmail.com  
+- 💌 Email: Tusharashyap031@gmail.com
+---
+✨ *“Code, Deploy, Repeat — that's my way!”*  
