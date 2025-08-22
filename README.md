@@ -15,8 +15,9 @@
 - **Programming**: Basics of React, Node.js  
 
 ### 📫 Connect with Me
-- GitHub: [Tusharkashyap914](https://github.com/Tusharkashyap914)  
+- GitHub: [Tusharkashyap914](https://github.com/Tusharkashyap914)
+- Linkdin :www.linkedin.com/in/tushar-kashyap-devops
 - 💌 Email: Tusharkashyap914@gmail.com  
 - 💌 Email: Tusharashyap031@gmail.com
----
+--- 
 ✨ *“Code, Deploy, Repeat — that's my way!”*  
